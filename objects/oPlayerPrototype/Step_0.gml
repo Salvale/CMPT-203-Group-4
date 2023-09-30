@@ -32,4 +32,4 @@ else // player is moving straight (up, down, left, or right exclusive)
 	x += _horiz;
 	y += _vert;
 }
-	
+
