@@ -18,6 +18,5 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sTileSetPrototype","order":1,"path":"sprites/sTileSetPrototype/sTileSetPrototype.yy",},
-    {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
