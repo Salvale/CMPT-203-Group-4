@@ -37,7 +37,6 @@
     {"id":{"name":"sTileSetPrototype","path":"sprites/sTileSetPrototype/sTileSetPrototype.yy",},},
     {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"tsTileSetPrototype","path":"tilesets/tsTileSetPrototype/tsTileSetPrototype.yy",},},
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
