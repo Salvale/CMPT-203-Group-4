@@ -31,17 +31,20 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.106",
   },
   "resources": [
-    {"id":{"name":"sTileSetPrototype","path":"sprites/sTileSetPrototype/sTileSetPrototype.yy",},},
-    {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"id":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},},
+    {"id":{"name":"tsWall","path":"tilesets/tsWall/tsWall.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
+    {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
-    {"id":{"name":"tsTileSetPrototype","path":"tilesets/tsTileSetPrototype/tsTileSetPrototype.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
