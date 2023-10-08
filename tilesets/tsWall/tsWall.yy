@@ -19,7 +19,7 @@
     "name": "sWall",
     "path": "sprites/sWall/sWall.yy",
   },
-  "spriteNoExport": false,
+  "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

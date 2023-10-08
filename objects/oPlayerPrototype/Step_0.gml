@@ -17,10 +17,6 @@ if keyboard_check( ord("S") ) _vert += _dist;
 
 if (_horiz != 0 && _vert != 0) // player is moving diagonally
 {
-	// Used pythaogrean theorem to get the actual distance travelled for x and y
-	//hypotenuse = _dist, and x and y having the same length
-	// This fixes the movement speed when player moves diagonally
-	//_dist = sqrt(power(_dist, 2)/2); 
 	
 	if _horiz < 0 x -= _dist_d; // go left
 	else x += _dist_d; // go right

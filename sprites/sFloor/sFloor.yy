@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFloor",
-  "bbox_bottom": 811,
+  "bbox_bottom": 479,
   "bbox_left": 0,
-  "bbox_right": 863,
+  "bbox_right": 703,
   "bbox_top": 13,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9465cb0f-0227-452d-90a5-3da192b35baf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"10b557cf-8f1d-464c-8d44-1cafc818cc11",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 4096,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c47caf7d-64ab-4e51-8628-52e80a4e4df0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d835f2e4-9841-4425-a8e2-59ff542f4451","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9465cb0f-0227-452d-90a5-3da192b35baf","path":"sprites/sFloor/sFloor.yy",},},},"Disabled":false,"id":"bc23bb05-0c64-493f-a52c-37b271be6374","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"10b557cf-8f1d-464c-8d44-1cafc818cc11","path":"sprites/sFloor/sFloor.yy",},},},"Disabled":false,"id":"ab66cf9d-d9c3-4e0f-b9c2-efaf1f2fbbfc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
