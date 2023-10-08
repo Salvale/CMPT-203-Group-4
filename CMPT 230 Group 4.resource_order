@@ -20,7 +20,9 @@
     {"name":"tsWall","order":1,"path":"tilesets/tsWall/tsWall.yy",},
     {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
     {"name":"rDock","order":1,"path":"rooms/rDock/rDock.yy",},
+    {"name":"rCourtyard","order":2,"path":"rooms/rCourtyard/rCourtyard.yy",},
     {"name":"sFloor","order":1,"path":"sprites/sFloor/sFloor.yy",},
+    {"name":"rBeach","order":3,"path":"rooms/rBeach/rBeach.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
   ],
 }
