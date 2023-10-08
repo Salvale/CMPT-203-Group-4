@@ -38,6 +38,7 @@
     {"id":{"name":"tsWall","path":"tilesets/tsWall/tsWall.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
+    {"id":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
@@ -45,6 +46,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
+    {"roomId":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
