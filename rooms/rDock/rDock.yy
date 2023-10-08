@@ -8,11 +8,13 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_10B2B9DB","path":"rooms/rDock/rDock.yy",},
+    {"name":"inst_39AF864F","path":"rooms/rDock/rDock.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10B2B9DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":448.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_39AF864F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":448.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":28,"SerialiseWidth":26,"TileCompressedData":[
 -251,-2147483648,1,640,-25,-2147483648,1,768,-25,-2147483648,1,896,-25,-2147483648,6,1024,641,642,-2147483648,643,644,-21,-2147483648,5,769,770,
@@ -55,8 +57,8 @@
 -3,518,1,517,-3,518,1,517,-6,518,1,517,-4,518,-2,644,5,518,644,644,518,644,-3,518,1,517,
 -3,518,1,517,-6,518,1,517,-3,518,-5,516,-3,643,-3,518,-5,517,-6,518,-4,517,-5,516,-3,643,
 -3,518,-5,516,-6,518,-3,516,1,517,-5,516,-3,517,-17,518,1,517,-5,516,-3,517,-17,518,1,517,
--5,516,3,518,517,517,-17,518,-2,517,-3,645,-4,517,-17,518,-2,517,-3,645,-4,517,-19,518,3,512,
-513,514,-4,516,-19,518,3,640,641,642,-290,518,],"TileDataFormat":1,},"tilesetId":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+-5,516,3,518,517,517,-17,518,-2,517,-3,645,-4,517,-17,518,-2,517,-3,645,-4,517,-17,518,-2,516,
+3,512,513,514,-4,516,-19,518,3,640,641,642,-290,518,],"TileDataFormat":1,},"tilesetId":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Rooms",
@@ -78,7 +80,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":512,"hport":1024,"hspeed":-1,"hview":256,"inherit":false,"objectId":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},"vborder":256,"visible":true,"vspeed":-1,"wport":2048,"wview":512,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":512,"hport":1024,"hspeed":-3,"hview":256,"inherit":false,"objectId":null,"vborder":256,"visible":true,"vspeed":-3,"wport":2048,"wview":512,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -89,8 +91,8 @@
   ],
   "viewSettings": {
     "clearDisplayBuffer": true,
-    "clearViewBackground": true,
-    "enableViews": true,
+    "clearViewBackground": false,
+    "enableViews": false,
     "inheritViewSettings": false,
   },
   "volume": 1.0,

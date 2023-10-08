@@ -21,5 +21,6 @@
     {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
     {"name":"rDock","order":1,"path":"rooms/rDock/rDock.yy",},
     {"name":"sFloor","order":1,"path":"sprites/sFloor/sFloor.yy",},
+    {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
   ],
 }
