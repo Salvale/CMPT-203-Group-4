@@ -46,8 +46,8 @@
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
     {"roomId":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
+    {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
     {"roomId":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
   ],
   "templateType": "game",
