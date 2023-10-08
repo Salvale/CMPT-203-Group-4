@@ -17,6 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sWall","order":3,"path":"sprites/sWall/sWall.yy",},
+    {"name":"tsWall","order":2,"path":"tilesets/tsWall/tsWall.yy",},
     {"name":"sTileSetPrototype","order":1,"path":"sprites/sTileSetPrototype/sTileSetPrototype.yy",},
+    {"name":"sObject","order":4,"path":"sprites/sObject/sObject.yy",},
+    {"name":"sFloor","order":2,"path":"sprites/sFloor/sFloor.yy",},
+    {"name":"tsObject","order":3,"path":"tilesets/tsObject/tsObject.yy",},
+    {"name":"rDock","order":1,"path":"rooms/rDock/rDock.yy",},
+    {"name":"tsFloor","order":1,"path":"tilesets/tsFloor/tsFloor.yy",},
   ],
 }
