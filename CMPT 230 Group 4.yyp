@@ -41,12 +41,14 @@
     {"id":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
+    {"id":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
     {"roomId":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
+    {"roomId":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
