@@ -22,8 +22,8 @@
 2822,2823,2824,2819,2820,2821,2822,2823,2824,2819,2820,2821,2822,2823,2824,2819,2820,2821,2822,2823,2824,2819,2820,2821,-3,-2147483648,40,2819,2820,2821,2822,2823,2824,2951,2952,2820,2821,2822,2823,2824,2947,2948,2949,
 2950,2951,2952,2947,2948,2949,2950,2951,2952,2947,2948,2949,2950,2951,2952,2947,2948,2949,2950,2951,2952,2947,2948,2949,-3,-2147483648,13,2947,2948,2949,2950,2951,2952,-2147483648,2947,2948,2949,2950,2951,2952,-500,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Ground","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":24,"SerialiseWidth":43,"TileCompressedData":[
--9,517,1,770,-42,517,1,770,-33,517,-3,777,-6,517,1,770,-28,517,-5,646,-3,647,1,648,-3,517,-36,646,-3,775,-40,646,-2,518,-41,646,1,518,-42,646,-3,521,-40,
-646,-5,518,-38,646,-7,518,-36,646,-9,518,-7,646,-6,518,-20,646,-24,518,-16,646,-520,518,],"TileDataFormat":1,},"tilesetId":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+-9,517,2,279,407,-41,517,2,279,407,-32,517,-3,777,-6,517,2,279,407,-27,517,-5,646,-3,647,1,648,-3,517,-36,646,-3,775,-40,646,-2,518,-41,646,1,518,-42,646,
+-3,521,-40,646,-5,518,-38,646,-7,518,-36,646,-9,518,-7,646,-6,518,-20,646,-24,518,-16,646,-520,518,],"TileDataFormat":1,},"tilesetId":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Rooms",
