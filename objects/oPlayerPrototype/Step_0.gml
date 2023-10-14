@@ -5,8 +5,8 @@ var _horiz = 0;
 var _vert = 0;
 
 // distance at which player moves
-var _dist = 2;
-var _dist_d = 2 * 0.707
+var _dist = 2.5;
+var _dist_d = 2.5 * 0.707
 
 // the tile map the player should avoid
 var map_id = layer_tilemap_get_id("Collide");

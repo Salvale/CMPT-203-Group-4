@@ -17,9 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"sSwitchRoom","order":5,"path":"sprites/sSwitchRoom/sSwitchRoom.yy",},
     {"name":"rMainFloor","order":4,"path":"rooms/rMainFloor/rMainFloor.yy",},
-    {"name":"tsPath","order":3,"path":"tilesets/tsPath/tsPath.yy",},
+    {"name":"oSwitchRoom","order":2,"path":"objects/oSwitchRoom/oSwitchRoom.yy",},
     {"name":"tsWall","order":1,"path":"tilesets/tsWall/tsWall.yy",},
     {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
     {"name":"rDock","order":1,"path":"rooms/rDock/rDock.yy",},
