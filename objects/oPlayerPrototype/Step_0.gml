@@ -8,24 +8,20 @@ var _vert = 0;
 var _dist = 2;
 var _dist_d = 2 * 0.707
 
-// input of player using the WASD keys
-if keyboard_check( ord("D") ) _horiz += _dist;
-if keyboard_check( ord("A") ) _horiz -= _dist;
-if keyboard_check( ord("W") ) _vert -= _dist;
-if keyboard_check( ord("S") ) _vert += _dist;
+// the tile map the player should avoid
+var map_id = layer_tilemap_get_id("Collide");
 
+
+if keyboard_check(ord("D")) _horiz += 1;
+if keyboard_check(ord("A")) _horiz -= 1;
+if keyboard_check(ord("W")) _vert -= 1;
+if keyboard_check(ord("S")) _vert += 1;
 
 if (_horiz != 0 && _vert != 0) // player is moving diagonally
 {
-	
-	if _horiz < 0 x -= _dist_d; // go left
-	else x += _dist_d; // go right
-	
-	if _vert < 0 y -= _dist; // go up
-	else y += _dist_d; // go down
+	move_and_collide(_horiz*_dist_d, _vert*_dist_d, map_id);
 }
 else // player is moving straight (up, down, left, or right exclusive)
 {
-	x += _horiz;
-	y += _vert;
+	move_and_collide(_horiz*_dist, _vert*_dist, map_id);
 }
