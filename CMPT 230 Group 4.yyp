@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"sSwitchRoom","path":"sprites/sSwitchRoom/sSwitchRoom.yy",},},
+    {"id":{"name":"rMainPath","path":"rooms/rMainPath/rMainPath.yy",},},
     {"id":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},},
     {"id":{"name":"rMainFloor","path":"rooms/rMainFloor/rMainFloor.yy",},},
     {"id":{"name":"oSwitchRoom","path":"objects/oSwitchRoom/oSwitchRoom.yy",},},
@@ -55,6 +56,7 @@
     {"roomId":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
     {"roomId":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
     {"roomId":{"name":"rMainFloor","path":"rooms/rMainFloor/rMainFloor.yy",},},
+    {"roomId":{"name":"rMainPath","path":"rooms/rMainPath/rMainPath.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

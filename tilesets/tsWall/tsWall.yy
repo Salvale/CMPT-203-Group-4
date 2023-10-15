@@ -38,7 +38,7 @@
     "name": "sWall",
     "path": "sprites/sWall/sWall.yy",
   },
-  "spriteNoExport": true,
+  "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",

@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sSwitchRoom","order":5,"path":"sprites/sSwitchRoom/sSwitchRoom.yy",},
+    {"name":"rMainPath","order":5,"path":"rooms/rMainPath/rMainPath.yy",},
     {"name":"rMainFloor","order":4,"path":"rooms/rMainFloor/rMainFloor.yy",},
     {"name":"oSwitchRoom","order":2,"path":"objects/oSwitchRoom/oSwitchRoom.yy",},
     {"name":"tsWall","order":1,"path":"tilesets/tsWall/tsWall.yy",},
