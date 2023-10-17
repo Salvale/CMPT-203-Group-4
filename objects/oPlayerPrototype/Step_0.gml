@@ -11,11 +11,21 @@ var _dist_d = 2.5 * 0.707
 // the tile map the player should avoid
 var map_id = layer_tilemap_get_id("Collide");
 
+if keyboard_check_pressed( ord("P")) _canMove = !_canMove; //to test _canMove
+if (_canMove) { //Added "can move" check - declared in Create. Can be turned off if we do not want player to move (ie, in a cutscene or posessing another character)
+	if keyboard_check(ord("D")) _horiz += 1;
+	if keyboard_check(ord("A")) _horiz -= 1;
+	if keyboard_check(ord("W")) _vert -= 1;
+	if keyboard_check(ord("S")) _vert += 1;
 
-if keyboard_check(ord("D")) _horiz += 1;
-if keyboard_check(ord("A")) _horiz -= 1;
-if keyboard_check(ord("W")) _vert -= 1;
-if keyboard_check(ord("S")) _vert += 1;
+	if (_horiz != 0 && _vert != 0) // player is moving diagonally
+	{
+		move_and_collide(_horiz*_dist_d, _vert*_dist_d, map_id);
+	}
+	else // player is moving straight (up, down, left, or right exclusive)
+	{
+		move_and_collide(_horiz*_dist, _vert*_dist, map_id);
+	}
 
 if keyboard_check_pressed(ord("P")) { //prototype posession mechanic. for testing purposes - subject to change
 	if(moveTarget == self) {
