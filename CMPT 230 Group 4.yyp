@@ -34,24 +34,35 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"sSwitchRoom","path":"sprites/sSwitchRoom/sSwitchRoom.yy",},},
+    {"id":{"name":"rMainPath","path":"rooms/rMainPath/rMainPath.yy",},},
     {"id":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"oNPC","path":"objects/oNPC/oNPC.yy",},},
+=======
+    {"id":{"name":"rMainFloor","path":"rooms/rMainFloor/rMainFloor.yy",},},
+    {"id":{"name":"oSwitchRoom","path":"objects/oSwitchRoom/oSwitchRoom.yy",},},
+>>>>>>> dc1ce4e61ebe6c1bf12a1423dd95a7fb6a61d39d
     {"id":{"name":"tsWall","path":"tilesets/tsWall/tsWall.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sNPCTest","path":"sprites/sNPCTest/sNPCTest.yy",},},
     {"id":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
     {"id":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
+    {"id":{"name":"sCollide","path":"sprites/sCollide/sCollide.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
     {"id":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
     {"id":{"name":"tryPosess","path":"scripts/tryPosess/tryPosess.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
+    {"id":{"name":"tsCollide","path":"tilesets/tsCollide/tsCollide.yy",},},
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rDock","path":"rooms/rDock/rDock.yy",},},
     {"roomId":{"name":"rCourtyard","path":"rooms/rCourtyard/rCourtyard.yy",},},
     {"roomId":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
+    {"roomId":{"name":"rMainFloor","path":"rooms/rMainFloor/rMainFloor.yy",},},
+    {"roomId":{"name":"rMainPath","path":"rooms/rMainPath/rMainPath.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
