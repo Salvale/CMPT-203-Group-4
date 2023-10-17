@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"oNPC","order":2,"path":"objects/oNPC/oNPC.yy",},
     {"name":"sSwitchRoom","order":5,"path":"sprites/sSwitchRoom/sSwitchRoom.yy",},
     {"name":"rMainPath","order":5,"path":"rooms/rMainPath/rMainPath.yy",},
     {"name":"sNPC","order":6,"path":"sprites/sNPC/sNPC.yy",},
