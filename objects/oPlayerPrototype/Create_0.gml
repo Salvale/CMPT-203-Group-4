@@ -1,0 +1,1 @@
+moveTarget = self;

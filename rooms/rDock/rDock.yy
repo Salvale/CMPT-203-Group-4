@@ -11,6 +11,7 @@
     {"name":"inst_3FAA4401","path":"rooms/rDock/rDock.yy",},
     {"name":"inst_E6BE57D","path":"rooms/rDock/rDock.yy",},
     {"name":"inst_4A9EBC76","path":"rooms/rDock/rDock.yy",},
+    {"name":"inst_3F11E5B7","path":"rooms/rDock/rDock.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -32,6 +33,7 @@
 -2147483648,5,513,-2147483648,-2147483648,0,513,-3,0,1,513,-23,-2147483648,-2,0,-131,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"tsWall","path":"tilesets/tsWall/tsWall.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A9EBC76","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F11E5B7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oNPC","path":"objects/oNPC/oNPC.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Objects_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":28,"SerialiseWidth":26,"TileCompressedData":[
 -16,0,-10,-2147483648,-22,0,-4,-2147483648,-226,0,1,640,-78,0,5,641,642,0,643,644,-21,0,5,769,770,0,
