@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sWall",
-  "bbox_bottom": 961,
+  "bbox_bottom": 3715,
   "bbox_left": 0,
-  "bbox_right": 1472,
+  "bbox_right": 3715,
   "bbox_top": 23,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6816fae9-6645-4430-83b2-b2641c12224e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"17e2936e-2aac-442e-954c-a5ab9177c39e",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 4096,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0e21d99d-6891-492d-84b0-8c421706b164","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"84e0c1d8-06fb-48db-acd6-ea6fa2479324","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6816fae9-6645-4430-83b2-b2641c12224e","path":"sprites/sWall/sWall.yy",},},},"Disabled":false,"id":"6a91874f-d266-4308-9920-d93bb0f920d5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"17e2936e-2aac-442e-954c-a5ab9177c39e","path":"sprites/sWall/sWall.yy",},},},"Disabled":false,"id":"8c153750-8973-4739-9150-a8be2af109ad","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

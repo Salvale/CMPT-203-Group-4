@@ -265,7 +265,7 @@
     "name": "sFloor",
     "path": "sprites/sFloor/sFloor.yy",
   },
-  "spriteNoExport": false,
+  "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
