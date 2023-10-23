@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.106",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"sSwitchRoom","path":"sprites/sSwitchRoom/sSwitchRoom.yy",},},
@@ -47,6 +47,7 @@
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"oNPC","path":"objects/oNPC/oNPC.yy",},},
     {"id":{"name":"sCollide","path":"sprites/sCollide/sCollide.yy",},},
+    {"id":{"name":"tryPossess","path":"scripts/tryPossess/tryPossess.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
     {"id":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},

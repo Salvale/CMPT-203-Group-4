@@ -1,1 +1,1 @@
-cameraTarget = oPlayerPrototype;
+canPossess = [inst_3F11E5B7, ]
