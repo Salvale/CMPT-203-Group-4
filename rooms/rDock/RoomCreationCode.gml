@@ -1,1 +1,1 @@
-canPossess = [inst_3F11E5B7, ]
+room.canPossess = [inst_3F11E5B7]

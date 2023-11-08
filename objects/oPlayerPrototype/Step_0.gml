@@ -20,11 +20,14 @@ if keyboard_check(ord("S")) _vert += 1;
 
 
 if keyboard_check_pressed(ord("P")) { //prototype posession mechanic. for testing purposes - subject to change
-	if(moveTarget == self) {
+/*	if(moveTarget == self) {
 		moveTarget = oNPC;
 	} else {
 		moveTarget = self;
 	}
+	*/
+	
+	tryPossess(self);
 }
 
 with (moveTarget) //movetarget set in create. set to an object to control it. 

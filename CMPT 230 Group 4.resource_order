@@ -1,12 +1,17 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"sInjuredMan","order":3,"path":"sprites/sInjuredMan/sInjuredMan.yy",},
     {"name":"rMainPath","order":3,"path":"rooms/rMainPath/rMainPath.yy",},
     {"name":"rMainFloor","order":1,"path":"rooms/rMainFloor/rMainFloor.yy",},
     {"name":"oSwitchRoom","order":3,"path":"objects/oSwitchRoom/oSwitchRoom.yy",},
     {"name":"rDock","order":2,"path":"rooms/rDock/rDock.yy",},
     {"name":"rCourtyard","order":4,"path":"rooms/rCourtyard/rCourtyard.yy",},
     {"name":"oNPC","order":2,"path":"objects/oNPC/oNPC.yy",},
+    {"name":"sMagicBeamTest","order":1,"path":"sprites/sMagicBeamTest/sMagicBeamTest.yy",},
+    {"name":"oMagicBeamTest","order":4,"path":"objects/oMagicBeamTest/oMagicBeamTest.yy",},
     {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"sNPCTest","order":5,"path":"sprites/sNPCTest/sNPCTest.yy",},
+    {"name":"Sprite10","order":4,"path":"sprites/Sprite10/Sprite10.yy",},
   ],
 }
