@@ -4,6 +4,7 @@
   "name": "oNPC",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sNPC",
-    "path": "sprites/sNPC/sNPC.yy",
+    "name": "sNPCTest",
+    "path": "sprites/sNPCTest/sNPCTest.yy",
   },
   "spriteMaskId": null,
   "visible": true,
