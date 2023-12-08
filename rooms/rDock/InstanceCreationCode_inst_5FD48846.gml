@@ -1,0 +1,1 @@
+text = ["This is some text","There is a lot of text. so much text. oh yeah."]
