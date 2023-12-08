@@ -36,18 +36,10 @@
   "resources": [
     {"id":{"name":"sSwitchRoom","path":"sprites/sSwitchRoom/sSwitchRoom.yy",},},
     {"id":{"name":"sInjuredMan","path":"sprites/sInjuredMan/sInjuredMan.yy",},},
-<<<<<<< HEAD
-=======
-    {"id":{"name":"sNPCwalking","path":"sprites/sNPCwalking/sNPCwalking.yy",},},
->>>>>>> 42129e4e81500f14b532b59bbd5b28a795ada9fb
     {"id":{"name":"rMainPath","path":"rooms/rMainPath/rMainPath.yy",},},
     {"id":{"name":"sTextBox","path":"sprites/sTextBox/sTextBox.yy",},},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
     {"id":{"name":"tsFloor","path":"tilesets/tsFloor/tsFloor.yy",},},
-<<<<<<< HEAD
-=======
-    {"id":{"name":"sNPCfalling","path":"sprites/sNPCfalling/sNPCfalling.yy",},},
->>>>>>> 42129e4e81500f14b532b59bbd5b28a795ada9fb
     {"id":{"name":"rMainFloor","path":"rooms/rMainFloor/rMainFloor.yy",},},
     {"id":{"name":"oSwitchRoom","path":"objects/oSwitchRoom/oSwitchRoom.yy",},},
     {"id":{"name":"tsWall","path":"tilesets/tsWall/tsWall.yy",},},
@@ -61,21 +53,12 @@
     {"id":{"name":"sCollide","path":"sprites/sCollide/sCollide.yy",},},
     {"id":{"name":"sMagicBeamTest","path":"sprites/sMagicBeamTest/sMagicBeamTest.yy",},},
     {"id":{"name":"tryPossess","path":"scripts/tryPossess/tryPossess.yy",},},
-<<<<<<< HEAD
-=======
-    {"id":{"name":"sNPCshooting","path":"sprites/sNPCshooting/sNPCshooting.yy",},},
->>>>>>> 42129e4e81500f14b532b59bbd5b28a795ada9fb
     {"id":{"name":"oMagicBeamTest","path":"objects/oMagicBeamTest/oMagicBeamTest.yy",},},
     {"id":{"name":"sPlayerPrototype","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},
     {"id":{"name":"rBeach","path":"rooms/rBeach/rBeach.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"sNPCTest","path":"sprites/sNPCTest/sNPCTest.yy",},},
     {"id":{"name":"sPuddle","path":"sprites/sPuddle/sPuddle.yy",},},
-=======
-    {"id":{"name":"sPocession","path":"sprites/sPocession/sPocession.yy",},},
-    {"id":{"name":"sNPCTest","path":"sprites/sNPCTest/sNPCTest.yy",},},
->>>>>>> 42129e4e81500f14b532b59bbd5b28a795ada9fb
     {"id":{"name":"tsCollide","path":"tilesets/tsCollide/tsCollide.yy",},},
     {"id":{"name":"oPlayerPrototype","path":"objects/oPlayerPrototype/oPlayerPrototype.yy",},},
   ],
