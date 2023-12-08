@@ -1,1 +1,2 @@
 moveTarget = self;
+canMove = true

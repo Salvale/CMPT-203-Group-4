@@ -3,19 +3,22 @@
 
 function tryPossess(playerObj) {
 	var possessionRange = 50;
-	var possessArray = room.canPossess;
-	if(array_length(possessArray) > 0) {
+	if (!instance_exists(oNPC)) {
+		return
+	}
+	var target = instance_nearest(oPlayerPrototype.x,oPlayerPrototype.y,oNPC)
+	if(true) {
 		if (playerObj.moveTarget == playerObj) {
-			for(i = 0; i < array_length(possessArray); i++) {
-				distTo = sqrt(abs(sqr(playerObj.x-possessArray[i].x) + sqr(playerObj.y-possessArray[i].y)));
+			//for(i = 0; i < array_length(possessArray); i++) {
+				distTo = sqrt(abs(sqr(playerObj.x-target.x) + sqr(playerObj.y-target.y)));
 				show_debug_message(string(distTo));
 				if(distTo < possessionRange) {
 					inst = instance_create_depth(playerObj.x, playerObj.y, -500, oMagicBeamTest);
-					angleTo = arctan((playerObj.y-possessArray[i].y)/(playerObj.x - possessArray[i].x))
-					inst.image_angle = point_direction(playerObj.x, playerObj.y, possessArray[i].x, possessArray[i].y)
-					playerObj.moveTarget = possessArray[i];
-					break;
-				}
+					angleTo = arctan((playerObj.y-target.y)/(playerObj.x - target.x))
+					inst.image_angle = point_direction(playerObj.x, playerObj.y, target.x, target.y)
+					playerObj.moveTarget = target;
+			//		break;
+			//	}
 			}
 		} else {
 			playerObj.moveTarget = playerObj;
