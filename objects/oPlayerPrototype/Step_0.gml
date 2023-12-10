@@ -30,6 +30,15 @@ if keyboard_check_pressed(ord("P")) { //prototype posession mechanic. for testin
 	tryPossess(self);
 }
 
+if ((_horiz != 0 or _vert != 0) and playing_step = false) {
+	playing_step = true
+	stepInst = audio_play_sound(soundFootstep,1,true)
+	
+} else if (_horiz == 0 and _vert == 0) {
+	audio_stop_sound(stepInst)
+	playing_step = false
+}
+
 with (moveTarget) //movetarget set in create. set to an object to control it. 
 {
 	if(canMove) {

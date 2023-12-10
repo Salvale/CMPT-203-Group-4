@@ -1,1 +1,1 @@
-//room.canPossess = [inst_3F11E5B7]
+audio_play_sound(soundBackground,1,true)

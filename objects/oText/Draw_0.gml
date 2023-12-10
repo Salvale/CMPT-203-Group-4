@@ -7,7 +7,7 @@ if (instance_nearest(oPlayerPrototype.x, oPlayerPrototype.y, oText) == id and di
 		return
 	} 
 	if (keyboard_check_pressed(vk_space)) {
-		
+		audio_play_sound(soundInteract,1,false)
 		if(index == 0 and !showingText) {
 			oPlayerPrototype.moveTarget.canMove = false;
 			showingText = true
