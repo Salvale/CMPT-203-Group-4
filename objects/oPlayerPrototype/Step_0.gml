@@ -12,7 +12,6 @@ var _dist_d = 2.5 * 0.707
 var map_id = layer_tilemap_get_id("Collide");
 
 
-
 if keyboard_check(ord("D")) _horiz += 1;
 if keyboard_check(ord("A")) _horiz -= 1;
 if keyboard_check(ord("W")) _vert -= 1;
@@ -33,9 +32,11 @@ if keyboard_check_pressed(ord("P")) { //prototype posession mechanic. for testin
 if ((_horiz != 0 or _vert != 0) and playing_step = false) {
 	playing_step = true
 	stepInst = audio_play_sound(soundFootstep,1,true)
-	
+	moveTarget.image_speed = 1
 } else if (_horiz == 0 and _vert == 0) {
 	audio_stop_sound(stepInst)
+	moveTarget.image_speed = 0
+	moveTarget.image_index = 0
 	playing_step = false
 }
 

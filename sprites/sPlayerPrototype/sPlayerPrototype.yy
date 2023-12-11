@@ -14,6 +14,8 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f9b4e186-7ce5-4679-86a1-0bd75a75a064",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a5ba4277-32fb-4758-a1cd-4fb084103627",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"27af49d2-286d-43cb-a3a8-8ce562da57db",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -66,7 +68,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 3.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -78,6 +80,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f9b4e186-7ce5-4679-86a1-0bd75a75a064","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},},"Disabled":false,"id":"67db2ba4-8653-4880-b198-2a52cd43101a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a5ba4277-32fb-4758-a1cd-4fb084103627","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},},"Disabled":false,"id":"ab8d082c-056b-49da-9a58-9ab02a5329b2","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"27af49d2-286d-43cb-a3a8-8ce562da57db","path":"sprites/sPlayerPrototype/sPlayerPrototype.yy",},},},"Disabled":false,"id":"e77a29dc-b44f-41e4-99de-7b890614fc5e","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

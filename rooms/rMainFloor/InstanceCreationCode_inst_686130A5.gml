@@ -1,0 +1,1 @@
+text = ["kindly ignore the fact that there are holes in the walls","Instead of focusing on that, please focus on the Employees Only door","How could you ever possibly open it?","Truly a mystery"]

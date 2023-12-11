@@ -1,1 +1,1 @@
-text = ["This is some text","There is a lot of text. so much text. oh yeah."]
+text = ["GREETINGS CIVILIAN","PLEASE HAVE AN ADEQUATE STAY AT OUR NON-SUSPICIOUS, EXTREMELY WELL FURNISHED FACILITY"]
